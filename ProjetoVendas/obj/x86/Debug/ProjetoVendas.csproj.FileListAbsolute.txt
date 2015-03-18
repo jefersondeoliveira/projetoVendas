@@ -1,0 +1,88 @@
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.FormPrincipal.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.Properties.Resources.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.exe
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.pdb
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormDepartamento.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormCliente.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormVendedor.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormProdutos.resources
+d:\documents\visual studio 2010\Projects\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Movimentacoes.FormVendas.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.exe
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.pdb
+D:\DSIA\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+D:\DSIA\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.FormPrincipal.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.Properties.Resources.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormCliente.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormDepartamento.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormProdutos.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormVendedor.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Movimentacoes.FormVendas.resources
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSIA\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormMovimentacoesDepto.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.exe
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.pdb
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.FormPrincipal.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.Properties.Resources.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormCliente.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormDepartamento.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormProdutos.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormVendedor.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Movimentacoes.FormVendas.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormAniverssariante.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormMovimentacoesDepto.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormProdutosSemEstoque.resources
+Y:\Joao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormVendasReport.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.exe
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.pdb
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.FormPrincipal.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.Properties.Resources.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormCliente.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormDepartamento.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormProdutos.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormVendedor.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Movimentacoes.FormVendas.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormAniverssariante.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormMovimentacoesDepto.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormProdutosSemEstoque.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormVendasReport.resources
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\visual\ProjetoJoao\ProjetoJoao\DIURNO Projeto Vendas 061114\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe.config
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.exe
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.pdb
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.exe
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\bin\Debug\ProjetoVendas.pdb
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.FormPrincipal.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.Properties.Resources.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormCliente.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormDepartamento.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormProdutos.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Cadastros.FormVendedor.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Movimentacoes.FormVendas.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormAniverssariante.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormMovimentacoesDepto.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormProdutosSemEstoque.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\ProjetoVendas.View.Relatorios.FormVendasReport.resources
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\visual\Prova 3\ProjetoVendas\ProjetoVendas\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A099CFD3-87F8-465A-A4F3-F159CD67CE45}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ProjetoVendas</RootNamespace>
+    <AssemblyName>ProjetoVendas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\ClienteData.cs" />
+    <Compile Include="Data\CompraData.cs" />
+    <Compile Include="Data\DepartamentoData.cs" />
+    <Compile Include="Data\ItemCompraData.cs" />
+    <Compile Include="Data\ItemVendaData.cs" />
+    <Compile Include="Data\MovimentacaoData.cs" />
+    <Compile Include="Data\ProdutoData.cs" />
+    <Compile Include="Data\VendaData.cs" />
+    <Compile Include="Data\VendedorData.cs" />
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\VendasModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VendasModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\Cadastros\FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Cadastros\FormCliente.Designer.cs">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Cadastros\FormDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Cadastros\FormDepartamento.Designer.cs">
+      <DependentUpon>FormDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Cadastros\FormProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Cadastros\FormProdutos.Designer.cs">
+      <DependentUpon>FormProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Cadastros\FormVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Cadastros\FormVendedor.Designer.cs">
+      <DependentUpon>FormVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Movimentacoes\FormVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Movimentacoes\FormVendas.Designer.cs">
+      <DependentUpon>FormVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\AniverssariantesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AniverssariantesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\AniverssariantesSchema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AniverssariantesSchema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\DeptoReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DeptoReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\DeptoSchema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DeptoSchema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\FormAniverssariante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\FormAniverssariante.Designer.cs">
+      <DependentUpon>FormAniverssariante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\FormMovimentacoesDepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\FormMovimentacoesDepto.Designer.cs">
+      <DependentUpon>FormMovimentacoesDepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\FormProdutosSemEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\FormProdutosSemEstoque.Designer.cs">
+      <DependentUpon>FormProdutosSemEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\FormVendasReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\FormVendasReport.Designer.cs">
+      <DependentUpon>FormVendasReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\ProdutoSchema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProdutoSchema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\ProdutosReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProdutosReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\VendaSchema.cs">
+      <DependentUpon>VendaSchema.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\Relatorios\VendaSchema.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VendaSchema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="View\Relatorios\VendasReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VendasReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\Cadastros\FormCliente.resx">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Cadastros\FormDepartamento.resx">
+      <DependentUpon>FormDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Cadastros\FormProdutos.resx">
+      <DependentUpon>FormProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Cadastros\FormVendedor.resx">
+      <DependentUpon>FormVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Movimentacoes\FormVendas.resx">
+      <DependentUpon>FormVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\AniverssariantesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AniverssariantesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\DeptoReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DeptoReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\FormAniverssariante.resx">
+      <DependentUpon>FormAniverssariante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\FormMovimentacoesDepto.resx">
+      <DependentUpon>FormMovimentacoesDepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\FormProdutosSemEstoque.resx">
+      <DependentUpon>FormProdutosSemEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\FormVendasReport.resx">
+      <DependentUpon>FormVendasReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\ProdutosReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ProdutosReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Relatorios\VendasReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VendasReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <EntityDeploy Include="Model\VendasModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>VendasModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Properties\DataSources\ProjetoVendas.Model.Cliente.datasource" />
+    <None Include="Properties\DataSources\ProjetoVendas.Model.VendasEntities.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="View\Relatorios\AniverssariantesSchema.xsc">
+      <DependentUpon>AniverssariantesSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\AniverssariantesSchema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AniverssariantesSchema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="View\Relatorios\AniverssariantesSchema.xss">
+      <DependentUpon>AniverssariantesSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\DeptoSchema.xsc">
+      <DependentUpon>DeptoSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\DeptoSchema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DeptoSchema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="View\Relatorios\DeptoSchema.xss">
+      <DependentUpon>DeptoSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\ProdutoSchema.xsc">
+      <DependentUpon>ProdutoSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\ProdutoSchema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProdutoSchema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="View\Relatorios\ProdutoSchema.xss">
+      <DependentUpon>ProdutoSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\VendaSchema.xsc">
+      <DependentUpon>VendaSchema.xsd</DependentUpon>
+    </None>
+    <None Include="View\Relatorios\VendaSchema.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VendaSchema.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="View\Relatorios\VendaSchema.xss">
+      <DependentUpon>VendaSchema.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="img\vendas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
